@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-sdev-350-homework-3-oracle-virtual-private-database
+<br>
+5/5 - (2 votes)
+
+Overview:This homework provides an opportunity for the student to create a Virtual Private Database in OracleUsing the Schema you developed in Homework 1 for your e-Commerce project, design and implement a Virtual Private Database that limits database access. Your design should be based on two of your columns and two of your tables. (Hint: where col1 = value1 AND col2 = value2). Which columns and tables you choose is up to you and will be based on your initial design. You may alter your tables if it makes sense to do so.Develop and conduct a test plan that clearly shows how access has been restricted by using the VirtualPrivate Database.In most cases you will need to create a separate policy and function for each of the two tables you select. Use the tutorial as a reference and follow the steps for creating the policy function, creating the virtual private database policy and testing the policy.
